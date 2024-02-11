@@ -1,0 +1,216 @@
+{
+  "seller": [
+    {
+      "id": "17cc",
+      "name": "Mandira Dubey",
+      "email": "mandiradubey@gmail.com",
+      "password": "abc@123s",
+      "Id": 1
+    },
+    {
+      "id": "55d4",
+      "name": "anjali Dubey",
+      "email": "dubey@gmail.com",
+      "password": "abc@123s",
+      "Id": 1
+    },
+    {
+      "id": "f673",
+      "name": "Front end jobs",
+      "password": "lkuytrdfghj",
+      "Email": "o76rtyui@gmail.com"
+    },
+    {
+      "id": "49e2",
+      "name": "Mandira",
+      "password": "kyfghjkl",
+      "Email": "dubey7876567@gmail.com"
+    },
+    {
+      "id": "6256",
+      "name": "Mandira",
+      "password": "mandira@123",
+      "Email": "mandiradubeyy@gmail.com"
+    },
+    {
+      "id": "ed95",
+      "name": "Mandira",
+      "password": "Mandira@1234",
+      "Email": "mandiradubeyy@gmail.com"
+    },
+    {
+      "id": "8f20",
+      "name": "Mandira",
+      "password": "mandira@1234",
+      "Email": "mandiradubeyy@gmail.com"
+    },
+    {
+      "id": "6754",
+      "Email": "mandiradubeyy@gmail.com",
+      "password": "Mandira@123"
+    },
+    {
+      "id": "cd2a",
+      "Email": "dubey7876567@gmail.com",
+      "password": "Mandira@1234"
+    },
+    {
+      "id": "3aa4",
+      "Email": "mandiradubey@gmail.com",
+      "password": "abc@123s"
+    },
+    {
+      "id": "fe71",
+      "Email": "mandiradubey@gmail.com",
+      "password": "abc@123s"
+    },
+    {
+      "id": "570f",
+      "Email": "mandiradubey@gmail.com",
+      "password": "abc@123s"
+    },
+    {
+      "id": "d890",
+      "Email": "mandiradubeyy@gmail.com",
+      "password": "abc@123s"
+    },
+    {
+      "id": "8b60",
+      "Email": "mandiradubeyy@gmail.com",
+      "password": "abc@123s"
+    },
+    {
+      "id": "9291",
+      "Email": "mandiradubey@gmail.com",
+      "password": "abc@123s"
+    },
+    {
+      "id": "f822",
+      "Email": "mandiradubey@gmail.com",
+      "password": "abc@123s"
+    },
+    {
+      "id": "a347",
+      "Email": "mandiradubey@gmail.com",
+      "password": "abc@123s"
+    },
+    {
+      "id": "6d8a",
+      "Email": "mandiradubey@gmail.com",
+      "password": "isLoginError"
+    },
+    {
+      "id": "eed9",
+      "Email": "mandiradubeyy@gmail.com",
+      "password": "isLoginError"
+    },
+    {
+      "id": "1d05",
+      "Email": "mandiradubeyy@gmail.com",
+      "password": "isLoginError"
+    },
+    {
+      "id": "caf7",
+      "name": "Sudheer Mishra",
+      "password": "Sud@123",
+      "Email": "SudMish@gmail.com"
+    },
+    {
+      "id": "933b",
+      "name": "Priyanjali",
+      "password": "Priya@123",
+      "Email": "Priyanjali@gmail.com"
+    },
+    {
+      "id": "50b4",
+      "name": "Nageshwar Dubey",
+      "password": "Nagesh@123",
+      "Email": "Nagesh123@gmail.com"
+    },
+    {
+      "id": "e080",
+      "name": "Pooja Mishra",
+      "password": "pooja@123",
+      "Email": "pooja@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "062e",
+      "name": "S",
+      "price": "10000",
+      "category": "mobile",
+      "color": "black",
+      "description": "An samsung Product",
+      "image": "https://images.samsung.com/is/image/samsung/levant-galaxy-note10-plus-n975-sm-n975fzsdmid-backauraglow-thumb-182079707?$344_344_PNG$"
+    },
+    {
+      "id": "0cdf",
+      "name": "Mi Phone",
+      "price": "7888",
+      "category": "mobile",
+      "color": "Blue",
+      "description": "An Xiaommi Phone",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/5/w/3/-original-imaghxcpnf8aay8h.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "fa52",
+      "name": "Nike Shoes",
+      "price": "5000",
+      "category": "Shoes",
+      "color": "black",
+      "description": "Nike Brand Shoes",
+      "image": "https://thumbs.dreamstime.com/b/tokyo-japan-march-nike-running-shoes-alphafly-next-controversial-athletics-shoe-legs-professional-athlete-road-official-213657190.jpg"
+    },
+    {
+      "id": "a4be",
+      "name": "Levis Jeans",
+      "price": "8900",
+      "category": "Jeans",
+      "color": "Blue",
+      "description": "Comfort Jeans",
+      "image": "https://5.imimg.com/data5/ANDROID/Default/2023/6/318756666/SQ/XK/HF/145684826/product-jpeg.jpg"
+    },
+    {
+      "id": "b83e",
+      "name": "Tokyo Talkies",
+      "price": "478",
+      "category": "Dress",
+      "color": "Lavender",
+      "description": "Tokyo talkies dress by Myntra",
+      "image": "https://getketchadmin.getketch.com/product/8905980111079/660/TTJ6009092_1.jpg"
+    },
+    {
+      "id": "3feb",
+      "name": "One Peice",
+      "price": "678",
+      "category": "Dress",
+      "color": "Burgundy",
+      "description": "Ketch dress by Myntra",
+      "image": "https://getketchadmin.getketch.com/product/8905040681016/660/TTJ6005207_1.JPG"
+    },
+    {
+      "id": "251d",
+      "name": "Gown",
+      "price": "678",
+      "category": "Dress",
+      "color": "Burgundy",
+      "description": "Tokyo talkies Gown",
+      "image": "https://getketchadmin.getketch.com/product/8905745740568/660/TTJ6008650_1.JPG"
+    }
+  ],
+  "users": [
+    {
+      "id": "c561",
+      "name": "Sudheer Mishra",
+      "email": "sud@gmail.com",
+      "password": "Sud@123"
+    }
+  ],
+  "cart":[
+    
+  ],
+  "orders":[
+
+  ]
+}
